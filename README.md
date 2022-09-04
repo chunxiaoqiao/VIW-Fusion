@@ -1,6 +1,7 @@
 # VIW-Fusion
+# Our code is being prepared for public
 # VINS-Wheels
-## VIO system incorporating wheel encoders
+## VIO system incorporating wheel encoders 
 
 This work is based on VINS-Fusion https://github.com/HKUST-Aerial-Robotics/VINS-Fusion.git
 
